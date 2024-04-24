@@ -1,0 +1,108 @@
+body {
+    background: url(https://png.pngtree.com/background/20210717/original/pngtree-blue-modern-professional-business-picture-image_1434967.jpg);
+    font-family: "Rosario", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+
+#name {
+    color: aqua;
+}
+
+header {
+    text-align: center;
+}
+
+.about {
+    background: url(https://img.freepik.com/premium-vector/terrazzo-texture-venetian-style-italian-stone-floor-granite-quartz-marble-glass-concrete_541404-99.jpg?w=740)
+    ;
+    border-radius: 20px;
+    padding: 1rem;
+    margin: 1rem auto;
+    text-align: center;
+
+}
+
+.experience {
+    background: url(https://img.freepik.com/free-vector/colorful-terrazzo-pattern-design_23-2148978964.jpg?w=826&t=st=1713910377~exp=1713910977~hmac=8be94251a44234f46288f3b090e36485c4d6ab7da795f116951dcbfd0ade5928);
+    border-radius: 20px;
+    padding: 1rem;
+    margin: 1rem auto;
+    text-align: center;
+}
+
+.education {
+    background: url(https://img.freepik.com/free-vector/colorful-terrazzo-pattern-design_23-2149023263.jpg?w=826&t=st=1713910387~exp=1713910987~hmac=ee6a9bfe2513a0b124c4eb00e050311b41c15ab8bab188feef16240b1c66cef5);
+    border-radius: 20px;
+    padding: 1rem;
+    margin: 1rem auto;
+    text-align: center;
+}
+
+.contact {
+    background: url(https://img.freepik.com/free-vector/flat-design-colourful-terrazzo-pattern_23-2148966018.jpg?w=826&t=st=1713910399~exp=1713910999~hmac=fb285f093a4aaef723bb6529e2679ace1a3e2bff63762d006a929bd0bdc58fce);
+    border-radius: 20px;
+    padding: 1rem;
+    margin: 1rem auto;
+    text-align: center;
+}
+
+/* style.css */
+
+/* General styles
+body {
+    font-family: 'Rosario', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f4f8;
+    color: #333;
+}
+
+header {
+    background-color: #3f72af;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+}
+
+.about {
+    background-color: #edf2f7;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.experience,
+.education,
+.contact {
+    margin-top: 30px;
+    background-color: #edf2f7;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+/* Links */
+a {
+    color: #3f72af;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Image */
+img {
+    border-radius: 25px;
+}
+
+/* Media query for responsiveness */
+@media (max-width: 600px) {
+    header {
+        font-size: 20px;
+    }
+} */
